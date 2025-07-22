@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36212.18 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuizLock", "QuizLock\QuizLock.csproj", "{9A4F1700-B36C-4BC4-A333-441F7C6673C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A4F1700-B36C-4BC4-A333-441F7C6673C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A4F1700-B36C-4BC4-A333-441F7C6673C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A4F1700-B36C-4BC4-A333-441F7C6673C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A4F1700-B36C-4BC4-A333-441F7C6673C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2ED934F7-699E-481B-A789-A0F6831E1CE6}
+	EndGlobalSection
+EndGlobal

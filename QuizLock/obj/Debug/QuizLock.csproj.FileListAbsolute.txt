@@ -1,0 +1,11 @@
+E:\C# Projects\PC_User_Detection\PCUserDetection\QuizLock\QuizLock\bin\Debug\QuizLock.exe.config
+E:\C# Projects\PC_User_Detection\PCUserDetection\QuizLock\QuizLock\bin\Debug\QuizLock.exe
+E:\C# Projects\PC_User_Detection\PCUserDetection\QuizLock\QuizLock\bin\Debug\QuizLock.pdb
+E:\C# Projects\PC_User_Detection\PCUserDetection\QuizLock\QuizLock\obj\Debug\QuizLock.csproj.AssemblyReference.cache
+E:\C# Projects\PC_User_Detection\PCUserDetection\QuizLock\QuizLock\obj\Debug\QuizLock.QuizLock.resources
+E:\C# Projects\PC_User_Detection\PCUserDetection\QuizLock\QuizLock\obj\Debug\QuizLock.Properties.Resources.resources
+E:\C# Projects\PC_User_Detection\PCUserDetection\QuizLock\QuizLock\obj\Debug\QuizLock.csproj.GenerateResource.cache
+E:\C# Projects\PC_User_Detection\PCUserDetection\QuizLock\QuizLock\obj\Debug\QuizLock.csproj.CoreCompileInputs.cache
+E:\C# Projects\PC_User_Detection\PCUserDetection\QuizLock\QuizLock\obj\Debug\QuizLock.exe
+E:\C# Projects\PC_User_Detection\PCUserDetection\QuizLock\QuizLock\obj\Debug\QuizLock.pdb
+E:\C# Projects\PC_User_Detection\PCUserDetection\QuizLock\QuizLock\obj\Debug\QuizLock.exe.config
